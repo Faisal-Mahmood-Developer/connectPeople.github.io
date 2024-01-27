@@ -1,0 +1,23 @@
+.nav-link:hover{
+    color: orange;
+    border-bottom: 2px solid orange;
+    padding: 5px;
+}
+.nav-link{
+    color: white;
+}
+
+/* styles.css */
+.myImage{
+    position: relative;
+    position: fixed;
+    width: 5%;
+   right: 0;
+}
+i{
+    color: white;
+    font-size: 25px;
+}
+i:hover{
+    color:orange;
+}
